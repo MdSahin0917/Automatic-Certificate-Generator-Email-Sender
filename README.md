@@ -365,13 +365,6 @@ Use **App Password**, not your Gmail password.
 
 ---
 
-# Security Warning
-
-Never upload your email password to GitHub.
-
-Always store credentials safely.
-
----
 
 # Author
 
@@ -381,16 +374,6 @@ Aliah University
 
 ---
 
-Security Notice
-
-If you distribute this software to clients:
-
-• Do not include your personal Gmail credentials
-• Each client should configure their own email account
-
-License
-
-This software is commercial software.
 
 Unauthorized redistribution, resale, or modification without permission is strictly prohibited.
 
